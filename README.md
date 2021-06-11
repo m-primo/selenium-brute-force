@@ -15,6 +15,11 @@ Once that's all set up:
 2. Go to the cloned directory ```cd selenium-brute-force```.
 3. Install the requirements ```pip install -r xreqs.txt```.
 
+Then, you have to edit your own callback check function:
+1. Open `app.py`.
+2. Navigate to `myCallback` function.
+3. Make your own code for the website you want to brute force it.
+
 
 # Run
 - Using arguments:
